@@ -1,2 +1,3 @@
 # java
- Exercicios da faculdade resolvidos
+ Exercícios da matéria de Java/Linguagem de Programação Orientada a Objetos resolvidos.
+
